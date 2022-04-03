@@ -1,5 +1,6 @@
-# Tidigt utkast av input-output-analys, med anledning av läget i Europa och världen
-Syfte ej supertydligt än så länge
+# Tidigt utkast 
+Input-output-analys, med anledning av läget i Europa och världen.
+Syfte ej supertydligt än så länge. 
 
 # Skript
 R-filen 'icio Ryssland1' = databehandling och analys i ett. 
